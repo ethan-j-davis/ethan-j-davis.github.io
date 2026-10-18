@@ -37,16 +37,16 @@ latest_posts:
 
 I am a 4th year mathematical sciences PhD candidate, working under the advisorship of [Dr. Deniz Bilman](https://bilman.github.io) at the University of Cincinnati. My research involves nonlinear waves and asymptotic analysis. This academic year, I am being supported by the [Taft Dissertation Fellowship](https://www.uc.edu/centers-institutes/taft-research-center/awards/students.html).
 
-I am very passionate about mathematics and how it is taught. For more on this, please check out my teaching page.
+I am very passionate about mathematics and how it is taught. For more on this, please check out my [teaching page](/teaching/).
 
 <blockquote style="clear: both; font-size: 1rem; padding: 1.25rem 1.5rem 0.25rem; background: var(--global-code-bg-color); display: flex; flex-wrap: wrap; gap: 0.5rem 2rem;" markdown="1">
 <div style="flex: 1 1 240px;" markdown="1">
 
 #### **Interests**
 
-- First interest
-- Second interest
-- Third interest
+- Teaching
+- Nonlinear Waves
+- Asymptotic Analysis
 
 </div>
 <div style="flex: 1 1 240px;" markdown="1">
