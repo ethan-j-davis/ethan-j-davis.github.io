@@ -3,6 +3,7 @@ layout: book-review
 title: The Annotated Gödel
 author: Hal Prince
 isbn: 9798986414201
+cover: assets/img/book_covers/the-annotated-godel.jpg
 categories: primary-source
 tags: logic incompleteness
 released: 2022
