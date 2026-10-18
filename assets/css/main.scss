@@ -1,0 +1,39 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@use "sass:math";
+@use "sass:string";
+
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+@use "themes";
+@use "layout";
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* ---------------------------------------------------------------
+   My site colors
+   --------------------------------------------------------------- */
+:root {
+  --global-theme-color: #1a6e78;                     /* deep teal: links, menu, bars */
+  --global-hover-color: #1a6e78;
+  --global-code-bg-color: rgba(26, 110, 120, 0.06);  /* faint teal tint behind boxes */
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #87d6af;                     /* mint from the photo's glow */
+  --global-hover-color: #87d6af;
+  --global-code-bg-color: #23393d;                   /* dark teal box background */
+}
