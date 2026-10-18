@@ -37,3 +37,8 @@ html[data-theme="dark"] {
   --global-hover-color: #87d6af;
   --global-code-bg-color: #23393d;                   /* dark teal box background */
 }
+
+/* Capitalize the News heading on the home page */
+h2 > a[href*="news"] {
+  text-transform: capitalize;
+}
