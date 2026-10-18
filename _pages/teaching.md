@@ -12,6 +12,6 @@ calendar: true
 
 I like teaching.
 
-## Courses
+## **Courses**
 
 {% include courses.liquid %}
