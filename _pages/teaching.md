@@ -2,13 +2,13 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses taught.
+description:
 nav: true
 nav_order: 5
 calendar: true
 ---
 
-## Teaching Philosophy
+## **Teaching Philosophy**
 
 I like teaching.
 
