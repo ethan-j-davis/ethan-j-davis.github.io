@@ -6,7 +6,7 @@ subtitle: 4th Year Mathematical Sciences PhD Candidate
 
 profile:
   align: right
-  image: taft_prof_pic.png
+  image: profile_picture.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="font-family: Roboto, sans-serif; text-align: center;">
