@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in mathematical sciences at the University of Cincinnati, working with [Dr. Deniz Bilman](https://bilman.github.io). My research involves nonlinear waves and asymptotic analysis, and this academic year I am supported by the [Taft Dissertation Fellowship](https://www.uc.edu/centers-institutes/taft-research-center/awards/students.html).
+I am a PhD candidate in mathematical sciences at the University of Cincinnati, working with [Dr. Deniz Bilman](https://bilman.github.io). My research involves nonlinear waves and asymptotic analysis, and this academic year I am supported by the [Taft Dissertation Fellowship](https://www.uc.edu/centers-institutes/taft-research-center).
 
 I am very passionate about mathematics and how it is taught. Since 2024 I have been the instructor of record for five courses at UC, from College Algebra to Multivariable Calculus, teaching in person, in a flipped classroom, and fully online. In 2025 I received the department's Outstanding Graduate Assistant Award. You can find my courses and syllabi on my [teaching page](/teaching/).
 
