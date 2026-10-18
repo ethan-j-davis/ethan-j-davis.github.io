@@ -1,6 +1,6 @@
 cv:
   name: Ethan J. Davis
-  label: PhD Student
+  label: PhD Candidate
   email: davis5ej@mail.uc.edu
   location: Cincinnati, OH
   image: ""
@@ -8,8 +8,8 @@ cv:
   address:
     street: 2815 Commons Way
     city: Cincinnati
-    region: Ohio
-    postalCode: OH 45221
+    region: OH
+    postalCode: "45221"
     countryCode: US
 
   sections:
@@ -18,9 +18,9 @@ cv:
         location: Cincinnati, OH
         url: https://www.artsci.uc.edu/natural-sciences/math.html
         area: Mathematical Sciences
-        studyType: Doctarate of Philosophy Student
+        studyType: Doctor of Philosophy
         start_date: 2023
-        end_date: 2028
+        end_date: Expected 2028
         score: ""
         highlights:
           - "Advisor: Dr. Deniz Bilman"
@@ -38,21 +38,35 @@ cv:
         location: Cincinnati, OH
         start_date: 2023
         end_date: 2024
-        summary: "As a GA, I would teach recitation sessions of high enrollment courses, such as Calculus. This involved coordinating with professors, passing out and grading quizzes, and holding office hours."
+        summary: "Led recitation sections for large-enrollment courses such as calculus: coordinated with lecturers, administered and graded quizzes, and held office hours."
 
       - company: University of Cincinnati
         position: Instructor of Record
         location: Cincinnati, OH
         start_date: 2024
         end_date: 2026
-        summary: "Taught a variety of courses in a variety of formats, including coordinated and uncoordinated courses, as well as teaching fully online."
+        summary: "Instructor of record for five undergraduate courses, including coordinated multi-section courses, a flipped classroom, a compressed summer session, and a fully asynchronous online course."
+        highlights:
+          - "MATH 1071: Introduction to Discrete Mathematics (Spring 2026)"
+          - "MATH 2063: Multivariable Calculus, asynchronous online (Summer 2025)"
+          - "MATH 1045: Applied Calculus II (Spring 2025, Fall 2025)"
+          - "MATH 1044: Applied Calculus I (Fall 2024)"
+          - "MATH 1021: College Algebra (Summer 2024)"
+
+    Publications:
+      - title: "A Family of Solutions of the Modified Korteweg–de Vries Equation and Their Large-Order Behavior"
+        date: 2026
+        publisher: "In preparation, with Deniz Bilman"
+
+    Presentations:
+      - bullet: "Talk at the 2026 SIAM Annual Meeting, Cleveland, OH, July 2026" 
 
     Awards:
       - title: Taft Dissertation Fellowship
-        date: 2024
+        date: 2026
         awarder: University of Cincinnati
         url: https://www.uc.edu/centers-institutes/taft-research-center/research/taft-fellows.html
-        summary: "The Taft fellowship program provides outstanding doctoral candidates with a year-long research assignment to advance their dissertation projects in a cross-disciplinary setting as members of the the weekly Taft Colloquium."
+        summary: "The Taft fellowship program provides outstanding doctoral candidates with a year-long research assignment to advance their dissertation projects in a cross-disciplinary setting as members of the weekly Taft Colloquium."
     
       - title: Maita Levine Award for Outstanding First Year Doctoral Student (Mathematics)
         date: 2024
@@ -67,7 +81,7 @@ cv:
     Skills:
       - name: Teaching
         icon: fa-solid fa-chalkboard-user
-        keywords: "Active learning, inquiry-based learning, standards-based grading, course design"
+        keywords: "Active learning, flipped classroom, group work, online teaching" # CHECK: keep only what you have used
 
       - name: Course Technology
         icon: fa-solid fa-laptop
@@ -84,7 +98,7 @@ cv:
 
       - name: Mathematics
         icon: fa-solid fa-square-root-variable
-        keywords: "mKdV"
+        keywords: "Nonlinear waves, asymptotic analysis, the modified Korteweg–de Vries (mKdV) equation"
 
       - name: Personal
         icon: fa-solid fa-flag

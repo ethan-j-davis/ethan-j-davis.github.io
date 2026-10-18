@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented at the SIAM National Conference in Cleveland.
+Gave a talk at the 2026 SIAM Annual Meeting in Cleveland.
