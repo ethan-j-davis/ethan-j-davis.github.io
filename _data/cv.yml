@@ -18,7 +18,7 @@ cv:
         location: Cincinnati, OH
         url: https://www.artsci.uc.edu/natural-sciences/math.html
         area: Mathematical Sciences
-        studyType: Doctarate of Philosophy
+        studyType: Doctarate of Philosophy Student
         start_date: 2023
         end_date: 2028
         score: ""
@@ -45,8 +45,7 @@ cv:
         location: Cincinnati, OH
         start_date: 2024
         end_date: 2026
-        highlights:
-          - "Taught a variety of courses in a variety of formats, including coordinated and uncoordinated courses, as well as teaching fully online."
+        summary: "Taught a variety of courses in a variety of formats, including coordinated and uncoordinated courses, as well as teaching fully online."
 
     Awards:
       - title: Taft Dissertation Fellowship
