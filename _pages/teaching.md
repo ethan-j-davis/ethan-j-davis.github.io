@@ -10,7 +10,7 @@ calendar: false
 
 <!-- When your teaching philosophy is ready, add it here under a "## Teaching Philosophy" heading. -->
 
-## **Highlights**
+# **Highlights**
 
 - **Outstanding Graduate Assistant Award** (2025), UC Department of Mathematical Sciences
 - **Online Teaching Excellence** certificate (2025), University of Cincinnati
@@ -18,6 +18,10 @@ calendar: false
 - Taught in person, in a flipped classroom, in compressed summer sessions, and fully online
 - Recitation instructor for large-enrollment calculus courses (2023–2024)
 
-## **Courses**
+# **Teaching Philosophy**
+
+Statement here.
+
+# **Courses**
 
 {% include courses.liquid %}
